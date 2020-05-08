@@ -2,8 +2,7 @@
 
 Summary: This is a java program that can read a csv file as a command line argument and insert each record into a sql .db file.
 The csv file must contain records that have exactly 10 fields. If a record doesn't have 10 fields, then it is returned to 
-a bad csv file. At the end of processing, some statistics will be written to a log file. The statistics are: # of total records, 
-# of bad records, and # of successful records.
+a bad csv file. At the end of processing, some statistics will be written to a log file. The statistics are: # of total records, # of bad records, and # of successful records.
 
 
 Getting Started:
